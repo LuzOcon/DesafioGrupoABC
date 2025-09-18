@@ -11,3 +11,4 @@ h5Elements.forEach((h5) => {
     h5.style.color = randomColor;
   }
 });
+
